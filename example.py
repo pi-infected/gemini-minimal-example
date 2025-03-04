@@ -43,7 +43,7 @@ Voici le document de test:
 {document_test}
 '''
 
-Tu retourneras un JSON avec deux champs :"""+"""
+Tu retourneras un JSON valide, formaté de la manière suivante :"""+"""
 {
   "name": "<ici, tu écriras le nom de la personne, ou null si tu n'en trouves pas>",
   "education": "<ici, tu écriras le niveau d'éducation, ou null si tu n'en trouves pas>",
