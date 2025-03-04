@@ -1,0 +1,5 @@
+google-genai
+pydantic
+json_repair
+fix_busted_json
+
