@@ -42,7 +42,7 @@ Ce projet est un exemple minimal d'utilisation robuste de l'API Gemini de Google
 
 1. Clonez ce repository:
    ```bash
-   git clone https://github.com/votre-username/gemini-minimal-example.git
+   git clone https://github.com/pi-infected/gemini-minimal-example.git
    cd gemini-minimal-example
    ```
 
